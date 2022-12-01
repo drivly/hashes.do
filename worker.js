@@ -1,7 +1,7 @@
 export const api = {
   icon: '🚀',
   name: 'hashes.do',
-  description: 'Cloudflare Worker Template',
+  description: 'Hash Generation & Verification API',
   url: 'https://hashes.do/api',
   type: 'https://apis.do/crypto',
   endpoints: {
